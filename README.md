@@ -71,10 +71,11 @@ My experience spans enterprise servers, cloud infrastructure, telecom and networ
 
 **OpenBMC Automation | NVIDIA**
 
-- Developed Python and Robot Framework automation for OpenBMC modules.
-- Worked on IPMI and Redfish feature automation.
-- Executed feature and regression testing and analysed failures.
-- Created Merge Requests through GitLab and pushed approved code to Gerrit.
+- Developed Python and Robot Framework automation for OpenBMC modules, with a focus on IPMI and Redfish feature validation.
+- Contributed test automation changes to the upstream **OpenBMC Test Automation** project through Gerrit, with multiple changes successfully merged.
+- Developed and enhanced automated test cases covering IPMI SEL, Cold Reset, SOL, Power Cycle, User, SDR, System Information and other management features.
+- Executed feature and regression testing, analysed failures and raised defects through GitLab.
+- Created Merge Requests and pushed approved automation changes through Gerrit.
 
 ---
 
@@ -96,22 +97,30 @@ Worked across six projects covering server storage, SDN/network controllers, tel
 
 ## 🌐 Open Source Contributions
 
-### OpenBMC
+### OpenBMC Test Automation
 
-Contributed to the OpenBMC open-source project during my time at
-American Megatrends India (AMI), working on automation and validation
-of OpenBMC features.
+Contributed to the upstream **OpenBMC Test Automation** project during my time at **American Megatrends India (AMI)**.
 
-My contributions include:
+Worked on developing and enhancing automated test cases and scripts for **IPMI and OpenBMC management features**, with contributions reviewed and merged through the OpenBMC Gerrit workflow.
 
-- Python and Robot Framework automation
-- OpenBMC feature validation
-- IPMI and Redfish testing
-- Test script development and execution
-- Defect analysis and validation
-- Gerrit-based code review and contribution workflow
+Key areas of contribution include:
 
-🔗 [OpenBMC Gerrit Contributions](https://gerrit.openbmc.org/q/owner:chithrag%2540ami.com)
+- IPMI System Event Log (SEL) test automation
+- IPMI Cold Reset and Power Reset testing
+- SOL (Serial over LAN) testing
+- IPMI User and Username validation
+- IPMI System Information testing
+- IPMI SDR and in-band SDR test automation
+- IPMI MAC Address and Cipher Suite testing
+- IPMI Power Cycle and Chassis testing
+- IPMI POH Counter testing
+- IPMI Get Device ID testing
+- IPMI SEL Time testing
+- SQL support test automation
+
+**Repository:** `openbmc/openbmc-test-automation`
+
+🔗 [View my OpenBMC Gerrit Contributions](https://gerrit.openbmc.org/q/owner:chithrag%2540ami.com)
 
 ---
 
