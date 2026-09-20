@@ -94,6 +94,27 @@ Worked across six projects covering server storage, SDN/network controllers, tel
 
 ---
 
+## 🌐 Open Source Contributions
+
+### OpenBMC
+
+Contributed to the OpenBMC open-source project during my time at
+American Megatrends India (AMI), working on automation and validation
+of OpenBMC features.
+
+My contributions include:
+
+- Python and Robot Framework automation
+- OpenBMC feature validation
+- IPMI and Redfish testing
+- Test script development and execution
+- Defect analysis and validation
+- Gerrit-based code review and contribution workflow
+
+🔗 [OpenBMC Gerrit Contributions](https://gerrit.openbmc.org/q/owner:chithrag%2540ami.com)
+
+---
+
 ## 🚀 Areas of Interest
 
 - Test Automation
